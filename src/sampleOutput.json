@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Pakistan to send its cricket team to participate in World Cup in India - foreign office - Reuters",
+      "description": "Pakistan to send its cricket team to participate in World Cup in India - foreign office  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9jcmlja2V0L3Bha2lzdGFuLXNlbmQtaXRzLWNyaWNrZXQtdGVhbS1wYXJ0aWNpcGF0ZS13b3JsZC1jdXAtaW5kaWEtZm9yZWlnbi1vZmZpY2UtMjAyMy0wOC0wNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-06T14:25:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Organizers of Brampton cricket tournament say city has fan base to support permanent facility - CBC.ca",
+      "description": "<ol><li>Organizers of Brampton cricket tournament say city has fan base to support permanent facility  CBC.ca\r\n</li><li>Global T20 cricket tournament returns after a four-year hiatus  The Globe and Mail\r\n</li><li>Global T20 cricket wants expansion to other ci…",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL2JyYW1wdG9uLWdsb2JhbC1ndDIwLWNyaWNrZXQtdG91cm5hbWVudC0xLjY5Mjg4MjjSASBodHRwczovL3d3dy5jYmMuY2EvYW1wLzEuNjkyODgyOA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-08-05T01:00:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "The Ashes: England v Australia - youngsters who could play in upcoming series",
+      "description": "With the 2023 series over, BBC Sport looks at the young players England and Australia could field in the upcoming Ashes series.",
+      "url": "https://www.bbc.co.uk/sport/cricket/66337176",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/6CFE/production/_130620972_gettyimages-1489139068.jpg",
+      "publishedAt": "2023-08-03T06:08:14Z",
+      "content": "With a thrilling Ashes contest over, the eyes of fans suddenly deprived of their fix of England-Australia action are already drifting to the next series when Ben Stokes' side will try to win back the… [+5863 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Supreme Court suspends Rahul Gandhi's conviction in defamation case",
+      "description": "The ruling potentially allows Mr Gandhi to return to parliament and contest the 2024 general elections.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-66404405",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0CDB/production/_129419230_rahul.jpg",
+      "publishedAt": "2023-08-04T09:00:19Z",
+      "content": "India's Supreme Court has suspended opposition leader Rahul Gandhi's conviction in a criminal defamation case.\r\nThe Congress leader was sentenced to two years in jail in March for his 2019 comments a… [+1474 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "India's parliament reinstates Rahul Gandhi as MP",
+      "description": "The opposition leader had been disqualified in March after being convicted in a criminal defamation case.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-66425569",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7AD7/production/_130674413_gettyimages-1575440781.jpg",
+      "publishedAt": "2023-08-07T06:09:23Z",
+      "content": "India's parliament has restored opposition leader Rahul Gandhi's lawmaker status two days after the Supreme Court suspended his conviction in a criminal defamation case.\r\nThe Congress leader was disq… [+2291 chars]"
+    }
+  ]
+}
